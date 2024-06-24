@@ -22,29 +22,38 @@ recruiting-webapp-character/
 │ ├── consts.js
 ├── package.json
 ├── README.md
+   ```
 
 
 ## Installation Instructions
 
 1. Clone the repository:
 
-```sh
+   ```sh
    git clone https://github.com/ramvilla997/recruiting-webapp-character.git
+      ```
+
 
 2. Navigate to the project directory:
 
 ```sh
    cd recruiting-webapp-character
+   ```
+
 
 3. Install dependencies:
 
 ```sh
    npm install
+   ```
+
 
 4. Start the development server:
 
 ```sh
    npm start
+   ```
+
 
 Navigate to http://localhost:3000 to view the application.
 
@@ -52,6 +61,8 @@ Navigate to http://localhost:3000 to view the application.
 Run the following command to start the development server and open the project in a web browser:
 ```sh
 npm start
+   ```
+
 
 
 ## API Integration
@@ -59,8 +70,12 @@ The application integrates with a backend API to fetch and save characters. Exam
 
 ```sh
 GET https://recruiting.verylongdomaintotestwith.ca/api/ramvilla997/character
+   ```
+
 ```sh
 POST https://recruiting.verylongdomaintotestwith.ca/api/ramvilla997/character
+   ```
+
 
 
 ## Contributing
